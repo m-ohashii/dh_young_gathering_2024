@@ -25,11 +25,19 @@ The project aims to identify regional patterns in literary texts from **Ancient 
 - pandas
 - matplotlib
 
-## Data
+## Data (Not Included)
+The original dataset consists of English-translated texts from the following sources:
+
+- *Sources of Early Akkadian Literature (SEAL)*  
+- *Thesaurus Linguae Aegyptiae (TLA)*  
+
+Due to copyright restrictions, the full dataset cannot be shared publicly.  
+However, the data was structured as a simple CSV file with two columns:
 - English-translated literary texts from:
   - *Sources of Early Akkadian Literature (SEAL)*
   - *Thesaurus Linguae Aegyptiae (TLA)*  
-*(Note: Demo version uses sample text data)*
+
+The code provided here can be applied to similar textual datasets.
 
 ---
 Feel free to explore the notebook and adapt the methods for similar research in digital humanities or computational philology.
